@@ -29,4 +29,4 @@ public class AjustesPlataforma {
     public void setCostoServidorPorHora(double costoServidorPorHora) {
         this.costoServidorPorHora = costoServidorPorHora;
     }
-}
+}// Configuracion general de plataforma
