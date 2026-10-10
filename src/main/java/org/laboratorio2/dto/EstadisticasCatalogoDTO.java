@@ -31,4 +31,4 @@ public class EstadisticasCatalogoDTO {
                 ", costoLicenciamientoTotal=$" + costoLicenciamientoTotal +
                 '}';
     }
-}
+}// DTO para metricas
