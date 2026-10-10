@@ -29,4 +29,4 @@ public class Main {
         EstadisticasCatalogoDTO stats = nuevoGestor.generarEstadisticas();
         System.out.println(stats);
     }
-}
+}// Flujo principal de ejecucion
