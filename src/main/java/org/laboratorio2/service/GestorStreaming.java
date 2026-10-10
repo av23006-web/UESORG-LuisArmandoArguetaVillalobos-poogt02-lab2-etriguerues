@@ -75,4 +75,4 @@ public class GestorStreaming implements RepositorioGenerico<Contenido> {
         double horasTotales = totalMinutos / 60.0;
         return new EstadisticasCatalogoDTO(catalogo.size(), horasTotales, costoLicenciaTotal);
     }
-}
+}// Logica de persistencia y calculo
