@@ -1,0 +1,26 @@
+[
+  {
+    "esEstreno": false,
+    "id": 1,
+    "titulo": "Inception",
+    "duracionMinutos": 148
+  },
+  {
+    "esEstreno": true,
+    "id": 2,
+    "titulo": "Deadpool \u0026 Wolverine",
+    "duracionMinutos": 128
+  },
+  {
+    "numCapitulos": 62,
+    "id": 3,
+    "titulo": "Breaking Bad",
+    "duracionMinutos": 2850
+  },
+  {
+    "numCapitulos": 34,
+    "id": 4,
+    "titulo": "Stranger Things",
+    "duracionMinutos": 2100
+  }
+]

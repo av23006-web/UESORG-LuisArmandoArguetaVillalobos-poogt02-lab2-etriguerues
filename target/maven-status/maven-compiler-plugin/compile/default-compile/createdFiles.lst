@@ -1,0 +1,9 @@
+org/laboratorio2/config/AjustesPlataforma.class
+org/laboratorio2/model/Serie.class
+org/laboratorio2/service/GestorStreaming.class
+org/laboratorio2/service/GestorStreaming$1.class
+org/laboratorio2/service/RepositorioGenerico.class
+org/laboratorio2/model/Pelicula.class
+org/laboratorio2/dto/EstadisticasCatalogoDTO.class
+org/laboratorio2/controller/Main.class
+org/laboratorio2/model/Contenido.class
