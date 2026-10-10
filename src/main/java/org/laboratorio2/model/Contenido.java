@@ -44,4 +44,4 @@ public abstract class Contenido {
     public String toString() {
         return "Contenido[ID=" + id + ",Titulo=" + titulo + "]";
     }
-}
+}// Modelo base de contenidos
